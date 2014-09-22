@@ -1,0 +1,7 @@
+ex04_4
+
+même pas proche
+
+erreur de syntaxe:
+'file:///C:/Users/ridjanod.FSA-RIDJANOD-2/educ/2014a/dart1/atangane_fontsa/ex4_4/bin/ex4_4.dart': error: line 1 pos 8: unexpected character: '«' (U+00AB)
+import « dart :math »
